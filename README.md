@@ -1,6 +1,7 @@
 ### Hello, there 👽
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipesanmartin&layout=compact&card_width=445&theme=nightowl&hide_border=true)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lipesanmartin&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 
 <!--
 **lipesanmartin/lipesanmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
